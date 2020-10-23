@@ -1,7 +1,7 @@
 
 cd ~
 rm awmeme.zip
-clear
+
 echo "http custom v233 simple patch for  decrypting file"
 echo "require root permission, please allow the dialog!"
 wget http://hc233test.000webhostapp.com/awmeme.zip >> log.txt
