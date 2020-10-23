@@ -4,7 +4,7 @@ rm awmeme.zip
 clear
 echo "http custom v233 simple patch for  decrypting file"
 echo "require root permission, please allow the dialog!"
-wget http://webnimex.000webhostapp.com/awmeme.zip >> log.txt
+wget http://hc233test.000webhostapp.com/awmeme.zip >> log.txt
 clear
 apt install unzip
 unzip -o awmeme.zip >> log.txt
@@ -17,7 +17,7 @@ echo ""
 echo "\ntutorialnya: buka aplikasi http custom terus mport config. terus liat hasilnya di folder bluetooth  filename out.txt"
 echo "\ntutorials: open appp http custom, import configuration, see output file in folder bluetooth. filename out.txt"
 echo "\nfor  http custom v233"
-echo "\n\n@lina_shiee"
+echo "\n\n@lina_shiee by navrod"
 
 cd ~
 rm sniffbeta.sh
