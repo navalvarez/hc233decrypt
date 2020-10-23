@@ -17,7 +17,7 @@ echo ""
 echo "\ntutorialnya: buka aplikasi http custom terus mport config. terus liat hasilnya di folder bluetooth  filename out.txt"
 echo "\ntutorials: open appp http custom, import configuration, see output file in folder bluetooth. filename out.txt"
 echo "\nfor  http custom v233"
-echo "\n\n@lina_shiee by navrod"
+echo "\n\n@lina_shiee by Rodrigo Alvarez"
 
 cd ~
 rm sniffbeta.sh
